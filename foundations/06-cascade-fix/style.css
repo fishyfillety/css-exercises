@@ -18,6 +18,10 @@
   font-weight: bold;
 } 
 
+#confirm-button {
+  background-color: green;
+  color: white;
+}
 .button {
   background-color: #ffc0cb;
   color: black;
